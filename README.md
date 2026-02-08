@@ -31,7 +31,7 @@ I specialize in transforming ideas into **production-ready websites** that are f
 
 ---
 
-## �️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I specialize in transforming ideas into **production-ready websites** that are f
 
 ---
 
-## � What I Do Best
+## 🚀 What I Do Best
 
 <table>
 <tr>
@@ -98,7 +98,7 @@ I specialize in transforming ideas into **production-ready websites** that are f
 
 <div align="center">
 
-### � [Unyamee.com](https://unyamee.shop)
+### 🏆 [Unyamee.com](https://unyamee.shop)
 
 **A Modern, Full-Stack E-Commerce & Service Platform**
 

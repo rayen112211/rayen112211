@@ -16,18 +16,20 @@
 
 ## 💼 About Me
 
-```typescript
-const rayen = {
-    role: "Full-Stack Web Developer",
-    location: "🌍 Available Worldwide (Remote)",
-    focus: ["Web Development", "UI/UX Design", "Performance Optimization"],
-    currentlyWorking: "Building scalable solutions for businesses",
-    openTo: ["Freelance Projects", "Collaborations", "Full-time Opportunities"],
-    motto: "Don't just write code — deliver solutions ✨"
-};
-```
+**Full-Stack Web Developer** | 🌍 **Available Worldwide (Remote)**
 
 I specialize in transforming ideas into **production-ready websites** that are fast, modern, and user-friendly. My approach combines **clean code**, **best practices**, and a deep understanding of what makes businesses succeed online.
+
+**🎯 What I Focus On:**
+- 💻 Web Development with modern frameworks
+- 🎨 UI/UX Design that converts
+- ⚡ Performance Optimization for speed
+
+**🚀 Currently:** Building scalable solutions for businesses
+
+**💼 Open To:** Freelance Projects • Collaborations • Full-time Opportunities
+
+> *"Don't just write code — deliver solutions ✨"*
 
 ---
 
@@ -126,20 +128,6 @@ Deployment: Vercel
 
 **📈 Impact:**
 > Built a complete production-ready platform from concept to deployment, handling everything from database design to frontend polish.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Rayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayen112211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayen112211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayen112211&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
 
 ---
 
